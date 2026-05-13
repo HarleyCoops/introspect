@@ -17,7 +17,7 @@
     "@types/react-dom": "19.0.0",
     "lodash.debounce": "^4.0.8",
     "lucide-react": "^0.469.0",
-    "next": "15.1.1",
+    "next": "15.5.18",
     "next-remove-imports": "^1.0.12",
     "papaparse": "^5.5.2",
     "react": "19.0.0",
